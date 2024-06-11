@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/commodi-officia-quod-harum",
-  "version": "1.1.39",
+  "version": "1.1.40",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -279,5 +279,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/commodi-officia-quod-harum/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
